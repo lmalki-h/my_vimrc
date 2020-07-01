@@ -1,0 +1,8 @@
+set background=dark
+syntax on
+set nu
+set mouse =a
+set tabstop =4
+set ruler
+set list
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
