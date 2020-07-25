@@ -1,8 +1,12 @@
-set background=dark
-syntax on
-set nu
-set mouse =a
-set tabstop =4
+colorscheme industry 		"colorscheme
+syntax enable 			"enable syntax processing
+set mouse=a			"enable mouse
+set cursorline			"show cursor
+set number 			"show line numbers
+set wrap			"enable line wrapping at columns 
+set ruler			"show cursor position
+set smartindent
 set ruler
 set list
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+set background=dark
