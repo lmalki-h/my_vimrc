@@ -6,7 +6,6 @@ set number 			"show line numbers
 set wrap			"enable line wrapping at columns 
 set ruler			"show cursor position
 set smartindent
-set ruler
 set list
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 set background=dark
